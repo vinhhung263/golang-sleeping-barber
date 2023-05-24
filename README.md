@@ -27,5 +27,8 @@ semaphores (mutexes) is not needed.
 ## Install
 - Run ` go run . `
 
+## Demo
+![Capture](https://github.com/vinhhung263/golang-sleeping-barber/assets/62415557/5e63d690-10bc-4f9d-8759-c30c9a767cca)
+
 ## Acknowledgments
 - https://www.udemy.com/course/working-with-concurrency-in-go-golang/
