@@ -20,3 +20,12 @@ The Sleeping Barber was originally proposed in 1965 by computer science pioneer 
 
 The point of this problem, and its solution, was to make it clear that in a lot of cases, the use of
 semaphores (mutexes) is not needed.
+
+## Prerequisites
+- Golang
+
+## Install
+- Run ` go run . `
+
+## Acknowledgments
+- https://www.udemy.com/course/working-with-concurrency-in-go-golang/
